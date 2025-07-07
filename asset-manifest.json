@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/yonnaklaassen.github.io/static/css/main.a24d511b.css",
-    "main.js": "/yonnaklaassen.github.io/static/js/main.3e12f796.js",
-    "static/js/453.dff87da4.chunk.js": "/yonnaklaassen.github.io/static/js/453.dff87da4.chunk.js",
-    "index.html": "/yonnaklaassen.github.io/index.html",
-    "main.a24d511b.css.map": "/yonnaklaassen.github.io/static/css/main.a24d511b.css.map",
-    "main.3e12f796.js.map": "/yonnaklaassen.github.io/static/js/main.3e12f796.js.map",
-    "453.dff87da4.chunk.js.map": "/yonnaklaassen.github.io/static/js/453.dff87da4.chunk.js.map"
+    "main.css": "/static/css/main.a24d511b.css",
+    "main.js": "/static/js/main.699c6508.js",
+    "static/js/453.dff87da4.chunk.js": "/static/js/453.dff87da4.chunk.js",
+    "index.html": "/index.html",
+    "main.a24d511b.css.map": "/static/css/main.a24d511b.css.map",
+    "main.699c6508.js.map": "/static/js/main.699c6508.js.map",
+    "453.dff87da4.chunk.js.map": "/static/js/453.dff87da4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a24d511b.css",
-    "static/js/main.3e12f796.js"
+    "static/js/main.699c6508.js"
   ]
 }
